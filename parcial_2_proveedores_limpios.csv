@@ -1,0 +1,11 @@
+id_proveedor,empresa,ciudad,contacto,telefono,email
+900111,Coopcafe,Bogota,Carlos Perez,3005551122.0,carlos@coop.com
+800222,Insumos Panaderos,Medellin,No Registra,3114445566.0,No Registra
+700333,Lacteos El Prado,Cali,Ana Rojas,No Registra,ana@prado.com
+600444,Distribuidora Sabana,Chia,Luis Gomez,3208889900.0,luis@sabana.com
+500555,Salsas Y Especias,Bogota,No Registra,3157778899.0,No Registra
+400666,Empaques De Carton,Barranquilla,Marta Diaz,3001112233.0,marta@empaques.com
+300777,Granos Y Cereales,Bucaramanga,No Registra,No Registra,ventas@granos.com
+200888,Bebidas Refrescantes,Bogota,Jorge Silva,3109998877.0,No Registra
+100999,Dulces Y Postres,Medellin,Elena Castro,3204445566.0,elena@dulces.com
+999000,Frutas Frescas,Cali,No Registra,3112223344.0,frutas@cali.com

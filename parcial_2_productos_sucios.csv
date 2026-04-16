@@ -1,0 +1,21 @@
+id_producto,producto_categoria,precio,stock,fecha_vencimiento
+1,Café Tostao - Bebida,$5000,50.0,2026-12-01
+2,chocolatina jet - snack,1200,,2027-01-15
+3,Empanada - Snack,$3000,20.0,2026-05-10
+4,Jugo Hit - Bebida,2500,,2026-08-22
+5,Galletas Festival - Snack,$1500,100.0,2026-11-30
+6,agua cristal - bebida,2000,30.0,2026-10-10
+7,Sandwich de Pavo - ALMUERZO,$7500,15.0,2026-04-20
+8,brownie - Postre,3500,,2026-04-25
+9,Té Helado - BEBIDA,$3000,40.0,2026-07-11
+10,Papas Margarita - snack,2200,60.0,2026-09-05
+11,Croissant - Panaderia,$2800,,2026-05-15
+12,Avena Alpina - Bebida,2600,25.0,2026-06-20
+13,Yogurt Finesse - BEBIDA,$3200,35.0,2026-07-30
+14,Muffin de Arandanos - postre,4000,,2026-08-10
+15,Dedito de Queso - Snack,$2500,45.0,2026-05-05
+16,Ensalada de Frutas - Postre,5500,10.0,2026-04-18
+17,Wrap de Pollo - Almuerzo,$8000,,2026-04-19
+18,Gomitas Trululu - SNACK,1000,80.0,2026-12-20
+19,Tinto - Bebida,$1500,100.0,2026-04-30
+20,Aromatica - bebida,2000,,2026-05-01

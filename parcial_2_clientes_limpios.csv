@@ -1,0 +1,21 @@
+id_cliente,nombre,tipo,email,telefono,fecha_nacimiento
+101,Diego Zuluaga,Profesor,diego@correo.com,3001112233.0,1985-05-10
+102,Ana Gomez,Estudiante,No Registra,No Registra,2004-01-15
+103,Carlos Ruiz,Profesor,carlos@correo.com,3109998877.0,1989-08-20
+104,Maria Lopez,Estudiante,No Registra,3204445566.0,1995-11-30
+105,Luis Perez,Externo,luis@correo.com,No Registra,1976-02-14
+106,Sofia Ramirez,Estudiante,sofia@correo.com,3112223344.0,2006-03-22
+107,Juan Camilo,Estudiante,juan@correo.com,No Registra,2002-07-11
+108,Andres Felipe,Externo,No Registra,3156667788.0,1996-09-05
+109,Valeria Morales,Profesor,valeria@correo.com,3009991122.0,1981-12-01
+110,Isabella Carranza,Estudiante,isa@correo.com,No Registra,2005-04-18
+111,Matias Mondragon,Estudiante,No Registra,3105556677.0,2003-02-28
+112,Arianne Amorocho,Externo,arianne@correo.com,3201112233.0,1999-06-15
+113,Mariana Peña,Estudiante,mariana@correo.com,No Registra,2004-08-08
+114,Nicolas Torres,Profesor,nico@correo.com,3114445566.0,1988-10-10
+115,Juan Leyton,Estudiante,No Registra,3007778899.0,2001-11-25
+116,Cristian Bermudez,Externo,cristian@correo.com,No Registra,1994-01-05
+117,Paula Arciniegas,Estudiante,paula@correo.com,3152223344.0,2006-09-14
+118,Samuel Lozano,Estudiante,No Registra,3206667788.0,2002-05-30
+119,Gabriela Ruiz,Profesor,gabi@correo.com,No Registra,1984-07-07
+120,Lucas Blanco,Externo,lucas@correo.com,3103334455.0,1995-03-12
