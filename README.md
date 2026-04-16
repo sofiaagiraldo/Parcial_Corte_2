@@ -1,6 +1,6 @@
 # Parcial Final — Corte 2 · Cafetería U. Sabana
 
-**Estudiante:** *Sofia Giraldo Pico*
+**Estudiante:** *Sofia Giraldo Pico* *Valery Linares*
 
 ---
 
